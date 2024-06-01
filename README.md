@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 🤝 I’m available for Jobs and freelance projects.
 - 💬 Ask me about ReactJS, NextJS, Docker.
-- 
+
 ## Wanna code together i would love to, grab a coffee and i'be at :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/maidishahoon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/disha-faujdar-df1102) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dishachoudhary1102) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/dishafaujdar)
 
