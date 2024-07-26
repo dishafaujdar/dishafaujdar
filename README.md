@@ -6,5 +6,7 @@
 
 ## Wanna code together i would love to, grab a coffee and I'll be at :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/disha-faujdar-df1102) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/dishafaujdar)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
